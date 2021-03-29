@@ -1,0 +1,1 @@
+export const HOME_URI = "https://novelextra.com/";
